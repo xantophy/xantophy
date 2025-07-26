@@ -1,4 +1,6 @@
-![pixel-city-chill](https://github.com/user-attachments/assets/1465b191-f8c9-4bb3-8a9f-14a2a4d5873d)  
+<p align="center">
+  ![pixel-city-chill](https://github.com/user-attachments/assets/da3c833f-2072-44f8-9d45-112893c3ae85)
+</p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Alif Indrastata</h1>
 <h3 align="center">Informatics Student | Focused on IT Development | Multimedia on the Side</h3>
